@@ -1,2 +1,3 @@
 # vba-aws-sqs
- VBA example code to request messages from Amazon Web Services SQS queue, using version 4 signing for the request
+ VBA example code for Amazon Web Services SQS queues, using version 4 signing for the request.
+ Example sends to and receives from an exisiting queue.
